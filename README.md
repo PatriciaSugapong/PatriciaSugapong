@@ -4,8 +4,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciaannesugapong@gmail.com)
 ![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-In%20Progress-teal?style=for-the-badge&logo=globe&logoColor=white)
 
-> **Note:** This GitHub README serves as my temporary portfolio while my web portfolio is still in progress.
-
 ## About Me
 
 I'm an aspiring software or web developer from the Philippines, currently living in General Trias, Cavite. For some, it might sound far, but studying at Adamson University for college made me accustomed to daily commuting, rain or shine. I have a strong interest in software engineering and application/website development. My passion for graphic design and games fueled my journey into development, starting with front-end and eventually moving into full-stack development through hands-on projects.

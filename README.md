@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciaannesugapong)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciaannesugapong@gmail.com)
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-In%Progress-teal?style=for-the-badge&logo=globe&logoColor=white)]
+![Portfolio](https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white)
 
 ## About Me
 
